@@ -1,0 +1,61 @@
+Customer_Id,Discount,Delivery_Option,Customer_Location
+132,0.3,Premium Shipping,Mitte
+134,0.3,Premium Shipping,Pankow
+136,0.2,Premium Shipping,Neukölln
+138,0.3,Premium Shipping,Kreuzberg
+142,0.25,Premium Shipping,Kreuzberg
+144,0.05,Standard Shipping,Pankow
+146,0.3,Premium Shipping,Neukölln
+147,0.3,Premium Shipping,Mitte
+148,0.3,Premium Shipping,Prenzlauer Berg
+149,0.3,Premium Shipping,Neukölln
+151,0.3,Premium Shipping,Friedrichshain
+154,0.35,Premium Shipping,Wedding
+157,0.05,Standard Shipping,Charlottenburg
+162,0.05,Standard Shipping,Wedding
+164,0.3,Premium Shipping,Friedrichshain
+166,0.3,Premium Shipping,Pankow
+169,0.4,Premium Shipping,Charlottenburg
+172,0.35,Premium Shipping,Kreuzberg
+176,0.3,Premium Shipping,Friedrichshain
+179,0.3,Premium Shipping,Kreuzberg
+184,0.06,Standard Shipping,Prenzlauer Berg
+187,0.07,Standard Shipping,Kreuzberg
+190,0.3,Premium Shipping,Neukölln
+192,0.3,Premium Shipping,Prenzlauer Berg
+194,0.35,Premium Shipping,Charlottenburg
+196,0.3,Premium Shipping,Mitte
+198,0.2,Premium Shipping,Kreuzberg
+200,0.2,Premium Shipping,Pankow
+202,0.15,Standard Shipping,Mitte
+204,0.3,Premium Shipping,Friedrichshain
+206,0.2,Premium Shipping,Neukölln
+208,0.2,Premium Shipping,Wedding
+210,0.35,Premium Shipping,Prenzlauer Berg
+212,0.25,Premium Shipping,Wedding
+214,0.17,Premium Shipping,Prenzlauer Berg
+216,0.18,Premium Shipping,Wedding
+218,0.19,Premium Shipping,Wedding
+220,0.2,Premium Shipping,Pankow
+222,0.21,Premium Shipping,Friedrichshain
+224,0.22,Premium Shipping,Charlottenburg
+226,0.23,Premium Shipping,Neukölln
+228,0.15,Standard Shipping,Charlottenburg
+232,0.05,Standard Shipping,Prenzlauer Berg
+234,0.26,Premium Shipping,Mitte
+236,0.01,Standard Shipping,Charlottenburg
+238,0.28,Premium Shipping,Pankow
+240,0.15,Standard Shipping,Charlottenburg
+256,0.1,Standard Shipping,Pankow
+266,0.12,Standard Shipping,Prenzlauer Berg
+280,0.1,Standard Shipping,Pankow
+282,0.15,Standard Shipping,Charlottenburg
+284,0.05,Standard Shipping,Kreuzberg
+286,0.3,Premium Shipping,Mitte
+288,0.15,Standard Shipping,Charlottenburg
+290,0.15,Standard Shipping,Friedrichshain
+292,0.3,Premium Shipping,Prenzlauer Berg
+294,0.15,Standard Shipping,Pankow
+296,0.18,Premium Shipping,Neukölln
+298,0.2,Premium Shipping,Kreuzberg
+300,0.1,Standard Shipping,Pankow

@@ -1,0 +1,320 @@
+Product_Sku,Product_Catagory,Product_Subcatagory,Product_Name,Price,Cost
+15003487,Gemüse,Gemüse,Bio Paprika Snack 150g,2.77,2.07
+15003507,Gemüse,Gemüse,Bio Paprika Spitz 180g (Spanien),1.83,1.13
+15003491,Gemüse,Gemüse,Bio Zucchini 1 Stk. (Deutschland),2.25,1.55
+15003489,Gemüse,Gemüse,Bratpaprika 200g,1.41,0.71
+15003492,Gemüse,Gemüse,Paprika gelb 1 Stk (Deutschland),1.69,0.99
+15003524,Gemüse,Gemüse,Baby Spinat 100g (Niederlande),2.63,1.93
+15003527,Gemüse,Gemüse,Bio Blattspinat 100g (Deutschland),2.86,2.16
+15003526,Gemüse,Gemüse,Bio Eisbergsalat 1 Stk. (Spanien),1.43,0.73
+15003523,Gemüse,Gemüse,Bio Feldsalat 100g,1.29,0.59
+15003522,Gemüse,Gemüse,Bio Fenchel 500g (Italien),2.84,2.14
+15003525,Gemüse,Gemüse,Bio Mixsalat 125g,1.31,0.61
+15003515,Gemüse,Gemüse,Bio Romana Salat 2er Pack,2.97,2.27
+15003540,Gemüse,Gemüse,Wurzelsalat Trio 1 Stk. (Niederlande),2.43,1.73
+15003539,Gemüse,Gemüse,Bio Bohnen Grün 300g,1.82,1.12
+11011845,Gemüse,Gemüse,Blumenkohl Weiß 1 Stk. (Belgien),1.24,0.54
+11011847,Gemüse,Gemüse,Kohlrabi 1 Stk. (Deutschland),2.43,1.73
+11011850,Gemüse,Gemüse,Pak Choi 300g,2.35,1.65
+11012228,Gemüse,Gemüse,Rosenkohl 500g (Deutschland),2.30,1.60
+15003500,Gemüse,Gemüse,Suppengrün 500g (Niederlande),1.96,1.30
+15003502,Obst,Obst,Apfel Jonagold 1kg,3.57,2.91
+11010802,Obst,Obst,Bio Banane 1 Stk. (Costa Rica),2.61,1.95
+11011964,Obst,Obst,Beerenmix 150g,3.44,2.78
+11012063,Obst,Obst,Bio Brombeeren 125g,2.25,1.59
+11012466,Obst,Obst,Bio Erdbeeren 300g,4.06,3.40
+11012777,Obst,Obst,Bio Heidelbeeren 125g,2.82,2.16
+11013103,Obst,Obst,Ananas Sweet 1 Stk. (Costa Rica),4.10,3.44
+11013104,Obst,Obst,Avocado 500g Netz (Chile),2.97,2.31
+11013147,Obst,Obst,Bio Kiwi Gold Schale 4 Stk.,2.09,1.43
+11016722,Obst,Obst,Bio Mango 1 Stk. (Brasilien),2.51,1.85
+11016974,Obst,Obst,Granatapfel 1 Stk.,2.49,1.83
+11017774,Obst,Obst,Kiwibeeren 125g (Frankreich),4.76,4.10
+11017776,Obst,Obst,Mango 1 Stk (Dominikanische Republik),3.83,3.17
+11018144,Obst,Obst,Papaya 1 Stk. (Brasilien),2.59,1.93
+11018145,Obst,Obst,Passionsfrucht 1 Stk. (Brasilien),4.24,3.58
+11018146,Obst,Obst,Physalis 100g,3.80,3.14
+11018379,Obst,Obst,Melone Cantaloupe 1 Stk. (Brasilien),4.17,3.51
+11019071,Obst,Obst,Aprikose 1Kg,3.86,3.20
+11019352,Obst,Obst,Kirschen 240g (Deutschland),4.57,3.91
+15002464,Obst,Obst,Pflaumen 1kg,4.88,4.22
+11010580,Eis,Eis,Ben & Jerry's Cookie Dough Peace Pop 240ml (3x80ml),4.80,3.81
+11010582,Eis,Eis,Ferrero Raffaello Triple Experience Raspberry Eis 180ml (3x60ml),4.97,3.98
+11010585,Eis,Eis,Froobie Fruchties 400ml (10x40ml),3.34,2.35
+11012549,Eis,Eis,Kinder Chocolate Eis 220ml (4x55ml),4.45,3.46
+11013073,Eis,Eis,Langnese Cuja Mara Split 504ml (6x84ml),4.41,3.42
+15003893,Eis,Eis,Oreo Ice Cream Bites 80ml (8x10ml),4.45,3.46
+15004236,Eis,Eis,Cremissimo Walnuss Glück 900ml,3.09,2.10
+15003654,Eis,Eis,Love Nature by Cremissimo Chocolate Hazelnut 900ml,4.24,3.25
+15003592,Eis,Eis,Mövenpick Urban Moments Salted Caramel 800ml,4.41,3.42
+11018772,Eis,Eis,Black Forest Bio Ice Cream Schokolade 100ml,3.42,2.43
+15003568,Eis,Eis,Breyers Vegan Vanilla & Strawberry Pieces 465ml,4.93,3.94
+15003707,Eis,Eis,Del Fiore Mango Lemongrass Bio & Vegan 500ml,3.23,2.24
+15004342,Eis,Eis,Emma the Mu Birthday Cake 530ml,3.70,2.71
+15003586,Eis,Eis,Emma the Mu Dunkle Schokolade Vegan 530ml,3.87,2.88
+15003606,Eis,Eis,Glycklich Eis Vanille 500ml,3.42,2.43
+15003607,Eis,Eis,Glycklich Eis Zimt 500ml,3.64,2.65
+15003604,Eis,Eis,Gustavo Gusto Bourbon Vanille 500ml,4.24,3.25
+15003658,Eis,Eis,Häagen-Dazs Strawberry Cheesecake 460ml,4.97,3.98
+15003599,Eis,Eis,Hokey Pokey Vanilleeis mit Karamellstückchen und Karamellsirup 520 ml,4.51,3.52
+110100395,Eis,Eis,Oatly Hafer Eis Salted Caramel 500ml,3.46,2.47
+11010083,Alkoholfreie Getränke,Cola,"Coca Cola 0,33l",3.35,2.36
+11010096,Alkoholfreie Getränke,Cola,Coca Cola Zero 1l,3.26,2.70
+15003728,Alkoholfreie Getränke,Cola,"Dr Pepper Zero 0,33l Dose",3.13,2.57
+15003732,Alkoholfreie Getränke,Cola,"Fritz Kola 0,33l",2.17,1.61
+15003551,Alkoholfreie Getränke,Cola,"Mio Mio Cola 0,5l",2.33,1.77
+15003546,Alkoholfreie Getränke,Cola,"Pepsi Max 0,33l",2.73,2.17
+15003891,Alkoholfreie Getränke,Cola,Vita Cola Original 1l,2.88,2.32
+15003687,Alkoholfreie Getränke,Eistee & Mate,"Arizona Cranberry Dose 0,68l",2.94,2.38
+11010101,Alkoholfreie Getränke,Eistee & Mate,"Charitea Red Bio 0,33l",2.31,1.75
+11010102,Alkoholfreie Getränke,Eistee & Mate,"Club Mate 0,5l",2.77,2.21
+11010111,Alkoholfreie Getränke,Eistee & Mate,"Dirtea Zero Wet Peach Eistee Dose 0,5l",2.44,1.88
+11010112,Alkoholfreie Getränke,Eistee & Mate,"Elephant Bay IceTea Peach 0,33l",2.12,1.56
+11010118,Alkoholfreie Getränke,Eistee & Mate,Fuze Tea Zitrone 1L,2.71,2.15
+11011452,Alkoholfreie Getränke,Eistee & Mate,"Gerolsteiner Schwarztee Pfirsich 0,75l",3.06,2.50
+11011455,Alkoholfreie Getränke,Eistee & Mate,Kombuchery Raw Ingwer Bio-Kombucha 330ml,2.78,2.22
+11011460,Alkoholfreie Getränke,Eistee & Mate,"Lipton Ice Tea Lemon Zero 1,5l",3.26,2.70
+11014086,Alkoholfreie Getränke,Eistee & Mate,"Mio Mio Mate Ginger 0,5l",2.93,2.37
+11015398,Alkoholfreie Getränke,Eistee & Mate,"Rewe Beste Wahl LaMate 0,33l",3.12,2.56
+11015546,Alkoholfreie Getränke,Eistee & Mate,ROY Coffee Kombucha,2.62,2.06
+11015560,Alkoholfreie Getränke,Energydrinks,"Coca Cola Energy 0,25l",3.26,2.70
+11015561,Alkoholfreie Getränke,Energydrinks,"Dirtea Tea & Energy Icy Cactus Dose 0,5l",2.60,2.04
+11015565,Alkoholfreie Getränke,Energydrinks,"Effect Black Acai 0,25l Dose",2.54,1.98
+11015581,Alkoholfreie Getränke,Energydrinks,"Monster Energy 0,5l Dose",3.16,2.60
+102300012,Alkoholfreie Getränke,Energydrinks,"Red Bull Yellow Edition 0,25l",2.80,2.24
+105650069,Alkoholfreie Getränke,Energydrinks,"Rockstar Baja Juiced Machu Peachu 0,5l",2.75,2.19
+105650077,Alkoholfreie Getränke,Energydrinks,"Rockstar Energy + Hemp Original 0,5l",3.34,2.78
+111600931,Alkoholfreie Getränke,Energydrinks,"Spezi Energy 0,33l",3.57,3.01
+15003653,Alkoholfreie Getränke,Frische Säfte & Smoothies,"Innocent Direktsaft Blaubeere, Apfel, Johannisbeere & Cranberry 900ml",3.50,2.94
+11015504,Alkoholfreie Getränke,Frische Säfte & Smoothies,Kraftling Melonade Cantaloupe Melone 400ml,3.02,2.46
+11015505,Alkoholfreie Getränke,Frische Säfte & Smoothies,Kraftling Melonade Wassermelone 400ml,2.88,2.32
+11015506,Alkoholfreie Getränke,Wasser,"Adelholzener Classic 0,75l",3.41,2.85
+11012284,Alkoholfreie Getränke,Wasser,Ensinger Sport Medium 1l,2.89,2.33
+15003534,Alkoholfreie Getränke,Wasser,Ensinger Sport Still 1l,2.10,1.54
+15003531,Alkoholfreie Getränke,Wasser,Evian Premium 1l,2.96,2.40
+15003505,Alkoholfreie Getränke,Wasser,Gaensefurther Limette 1l,2.23,1.67
+11013826,Alkoholfreie Getränke,Wasser,Gerolsteiner Sprudel 1l,3.42,2.86
+11014875,Alkoholfreie Getränke,Wasser,Spreequell Classic 1l,2.65,2.09
+11014876,Alkoholfreie Getränke,Wasser,Spreequell Medium 1l,3.51,2.95
+11017047,Alkoholfreie Getränke,Wasser,Vio Mineralwasser Still 1l,3.37,2.81
+11017049,Alkoholfreie Getränke,Wasser,"Vio Still 1,5l",3.28,2.72
+11017050,Alkoholfreie Getränke,Wasser,Vittel Mineralwasser Still 1l,3.05,2.49
+11017096,Alkoholfreie Getränke,Wasser mit Geschmack,"Gerolsteiner Fruity Zitrone 0,75l",3.05,2.49
+11017097,Alkoholfreie Getränke,Wasser mit Geschmack,"Granini Fresh Kirsche 0,75l",3.23,2.67
+11017098,Alkoholfreie Getränke,Wasser mit Geschmack,"Granini Fresh Maracuja 0,75l",2.64,2.08
+11017099,Alkoholfreie Getränke,Wasser mit Geschmack,Hohes C Energy Water - 0.75L,2.19,1.63
+11017100,Alkoholfreie Getränke,Wasser mit Geschmack,"Hohes C Immun Water 0,75l",3.31,2.75
+11017301,Alkoholfreie Getränke,Wasser mit Geschmack,Vilsa Plus Lemon 1l,2.37,1.81
+11017913,Alkoholfreie Getränke,Wasser mit Geschmack,"Vitamin Well Hydrate Erdbeer & Rhabarber 0,5l",3.03,2.47
+11017919,Alkoholfreie Getränke,Wasser mit Geschmack,"Volvic Juicy Sommerfrüchte 1,0l",2.73,2.17
+11017920,Alkoholfreie Getränke,Wasser mit Geschmack,"Volvic Touch Zitrone Limette 1,5l",2.04,1.48
+11017921,Alkoholfreie Getränke,Wasser mit Geschmack,waterdrop Microdrink 12Pack Boost 24g (12x2g),2.70,2.14
+11017939,Alkoholfreie Getränke,Wasser mit Geschmack,waterdrop Microdrink 12Pack Flair 24g (12x2g),2.36,1.80
+11017946,Alkoholfreie Getränke,Saft,Beckers Bester Apfelsaft Klar 1l,2.05,1.49
+11018370,Alkoholfreie Getränke,Saft,"Capri-Sun Safari Fruits 10x0,2l",2.87,2.31
+11018371,Alkoholfreie Getränke,Saft,"Durstlöscher Apfel-Orange-Zitrone 0,5l",3.02,2.46
+15004340,Alkoholfreie Getränke,Saft,Gerstacker Christkindles Kinderpunsch 1l,2.27,1.71
+15004341,Alkoholfreie Getränke,Saft,Granini Trinkgenuss Apfel-Kirsch 1l,2.77,2.21
+11018484,Alkoholfreie Getränke,Saft,Granini Trinkgenuss Pfirsich 1l,3.01,2.45
+11018485,Alkoholfreie Getränke,Saft,Happy Day Ananas 1l,2.61,2.05
+15003634,Alkoholfreie Getränke,Saft,Hohes C Juicy Balance Multi 1l,3.52,2.96
+104200146,"Eier, Milch & Butter",Butter & Margarine,Alsan Bio Pflanzen Margarine 250g,2.32,1.98
+11010778,"Eier, Milch & Butter",Butter & Margarine,Kerrygold Butterschmalz 250g,3.24,2.90
+11010779,"Eier, Milch & Butter",Butter & Margarine,Kerrygold Extra Gesalzen 250g,3.15,2.81
+11010780,"Eier, Milch & Butter",Butter & Margarine,Kerrygold Extra Gesalzen 400g,2.03,1.69
+11016261,"Eier, Milch & Butter",Butter & Margarine,Rama 60% Fett. 250g,3.35,3.01
+15002795,"Eier, Milch & Butter",Eier,Bio Eier 10er,2.66,1.56
+15002914,"Eier, Milch & Butter",Eier,Bio Eier Kl. S-XL 10er,2.22,1.12
+15003018,"Eier, Milch & Butter",Eier,Bio Eier Spitz und Bube Kl.S-L 6er,2.78,1.68
+15003045,"Eier, Milch & Butter",Eier,Biogreno Bio Eier 10 Stk.,2.36,1.26
+15003463,"Eier, Milch & Butter",Frischmilch,"Arla AEKT Frische Fettarme Milch 1,5% Fett 1l",3.42,2.32
+11018532,"Eier, Milch & Butter",Frischmilch,"Brodowin Bio Demeter Frische fettarme Milch 1,5% 1l",2.52,1.42
+11018833,"Eier, Milch & Butter",Frischmilch,"Brodowin Bio Demeter Frische Vollmilch 3,7% 1l",2.93,1.83
+11018837,"Eier, Milch & Butter",Frischmilch,"Brodowin Frische Fettarme Milch 1,8% 1l Flasche",2.80,1.70
+11018844,"Eier, Milch & Butter",Frischmilch,"Brodowin Frische Vollmilch 3,7% 1l Flasche",2.88,1.78
+11018845,"Eier, Milch & Butter",Frischmilch,Gläserne Molkerei Bio Frische Buttermilch 500g,2.64,1.54
+15003486,"Eier, Milch & Butter",Frischmilch,"Weihenstephan Frische Milch 3,5% Fett. 1l",3.08,1.98
+15003484,"Eier, Milch & Butter",Frischmilch,"Wiesehoff Frische Fettarme Milch 1,5% Fett. 1l",2.27,1.17
+15003485,"Eier, Milch & Butter",Frischmilch,"Wiesehoff Frische Vollmilch 3,5% 1l",2.32,1.22
+15004169,"Eier, Milch & Butter",Haltbare- & Kondensmilch,Andechser H-Ziegenmilch 3% 1l,3.46,2.36
+15004190,"Eier, Milch & Butter",Haltbare- & Kondensmilch,"Arla Bio Haltbare Weidemilch 1,5% Fett 1l",2.45,1.35
+15004316,"Eier, Milch & Butter",Haltbare- & Kondensmilch,"Arla Bio Haltbare Weidemilch 3,8% Fett. 1l",2.01,0.91
+15003763,"Eier, Milch & Butter",Haltbare- & Kondensmilch,Bärenmarke Der Extra Leichte Traum 3 Kondensmilch 170g,2.72,1.62
+15003769,"Eier, Milch & Butter",Haltbare- & Kondensmilch,"Weihenstephan Haltbare Milch 3,5% Fett. 1l",2.85,1.45
+15003770,"Eier, Milch & Butter",Kaffeegetränke,Alpro Caffe Mandel 235ml,3.10,1.70
+15004001,"Eier, Milch & Butter",Kaffeegetränke,Alpro Caffe Soya Karamel 235 ml,3.10,1.70
+15004132,"Eier, Milch & Butter",Kaffeegetränke,Andechser Bio Lassi Himbeere 250g,2.05,0.65
+15003437,"Eier, Milch & Butter",Kaffeegetränke,Starbucks Hazelnut Macchiato 220ml,3.48,2.08
+15003436,"Eier, Milch & Butter",Kaffeegetränke,Starbucks White Chocolate Mocha Eiskaffee 220ml,3.00,1.60
+15004240,"Eier, Milch & Butter",Milchalternativen,Alpro Kokosdrink ohne Zucker 1l,2.27,0.87
+15004237,"Eier, Milch & Butter",Milchalternativen,"Alpro Not Mlk Haferdrink 1,8% 1l",3.54,2.14
+15003674,"Eier, Milch & Butter",Milchgetränke,Chocomel Kakao Cup 230ml,2.75,1.35
+15003675,"Eier, Milch & Butter",Milchgetränke,Danone Actimel Drink Erdbeere 8x100g,3.04,1.64
+111201913,"Eier, Milch & Butter",Milchgetränke,Ja! Ayran 250ml,3.34,1.94
+11011683,"Eier, Milch & Butter",Milchgetränke,Müllermilch Erdbeere 400ml,3.58,2.18
+11013045,"Eier, Milch & Butter",Milchgetränke,Müllermilch Protein Banane 400ml,3.38,1.98
+11013561,"Eier, Milch & Butter",Milchgetränke,Müllermilch Protein Coco-Schoko 400ml,2.22,0.82
+11015772,"Eier, Milch & Butter",Sahne & Schmand,Bärenmarke Sahne 32% Fett. 500g,2.18,0.78
+11015773,"Eier, Milch & Butter",Sahne & Schmand,Bercht. Land Bio Schlagrahm 32% 250g,3.27,1.87
+11015774,"Eier, Milch & Butter",Sahne & Schmand,Biogreno Bio Creme Fraiche 38% Fett. 200g,3.09,1.69
+103300399,"Eier, Milch & Butter",Sahne & Schmand,Oatly Hafer Cuisine Bio 250ml,3.21,1.81
+15003585,Joghurt,Desserts,Alpro High Protein Pudding Schokolade 200g,3.59,2.19
+15000105,Joghurt,Desserts,Alpro High Protein Pudding Vanille 200g,2.58,1.18
+11016502,Joghurt,Desserts,MINDFUEL Chia Pudding Vanille 50g,2.12,1.13
+11018452,Joghurt,Desserts,Müller Grießpudding Erdbeere 160g,2.69,1.70
+11017438,Joghurt,Desserts,Müller Grießpudding Traditionell 200g,3.34,2.35
+11011762,Joghurt,Frucht- & Sahnejoghurt,"Landliebe Joghurt mit Erdbeeren 3,8% Fett. 500g",3.27,2.58
+11011811,Joghurt,Frucht- & Sahnejoghurt,"Landliebe Joghurt mit Heidelbeeren 3,8% Fett. 500g",2.14,1.45
+11011881,Joghurt,Frucht- & Sahnejoghurt,"Landliebe Joghurt mit Kirschen 3,8% Fett. 500g",2.33,1.64
+11015482,Joghurt,Joghurt & Skyr,Activia Natur/ Cerel. 2 fach sort 2,3.39,2.40
+11015483,Joghurt,Joghurt & Skyr,Activia Sommer 2 fach sort 1,2.74,1.75
+11015484,Joghurt,Joghurtalternativen,Alpro Not Yoghurt Natur 400g,2.73,1.74
+11015750,Joghurt,Joghurtalternativen,Alpro Soja Joghurtalternative Erdbeere 400g,2.85,1.86
+11016311,Joghurt,Naturjoghurt,Elinas Griech. Joghurt Natur 4x150g,2.20,1.21
+11016372,Joghurt,Naturjoghurt,"Gläserne Molkerei Bio Joghurt mild 1,8% Fett. 500g",2.48,1.49
+11017855,Joghurt,Naturjoghurt,"Gläserne Molkerei Bio Joghurt mild 3,8% Fett. 500g",3.21,2.22
+11018462,Joghurt,Naturjoghurt,Landliebe Joghurt mild 500g,2.57,1.58
+11018464,Joghurt,Naturjoghurt,Minus-L Joghurt Griechischer Art 400g,2.79,1.80
+11015037,Joghurt,Quark & Skyr,Soebbeke Bio Magerquark 250g,2.85,1.42
+11015038,Joghurt,Quark & Skyr,Soebbeke Bio Speisequark 40% Fett. i. Tr. 250g,2.25,0.82
+11015039,Joghurt,Quark & Skyr,Tuffi Speisequark 10% i. Tr. 250g,3.51,2.08
+11017422,Fitness,Drinks,Barebells Food Chocolate 500ml,2.78,1.35
+11017423,Fitness,Drinks,Barebells Food Strawberry 500ml,2.46,1.03
+11018591,Fitness,Drinks,yfood Drink Smooth Vanilla ohne Pfand 500ml,2.46,1.03
+11018628,Fitness,Drinks,yfood Drink Vegan Choco 500ml,2.08,0.65
+11018667,Fitness,Drinks,yfood Drink Vegan Vanilla 500ml,3.10,1.67
+11018668,Fitness,Essentials,foodspring Protein Cream Haselnuss & Whey Duo 200g,18.35,16.92
+11018933,Fitness,Essentials,foodspring Protein Cream Haselnuss 200g,13.44,12.01
+11019040,Fitness,Protein- & Geschmackspulver,foodspring Shape Shake 2.0 Schokolade 420ml,17.34,15.91
+11019041,Fitness,Protein- & Geschmackspulver,Foodspring Whey Protein Schokolade 330g,11.00,9.57
+11019185,Fitness,Proteinriegel,Barebells Protein Bar Brownie Core 35g,11.06,9.63
+11019187,Fitness,Proteinriegel,Barebells Protein Bar Caramel Cashew 55g,15.02,13.59
+15000520,Fitness,Proteinriegel,Rocka Nutrition No Whey Bar Butter Cookie 50g,19.67,17.92
+100600097,Fitness,Proteinriegel,Rocka Nutrition No Whey Bar Chocolate Strawberry Crisp 50g,15.53,13.78
+101050015,Fitness,Snacks,Barebells Protein Bar Double Bite Caramel Crisp 55g,8.77,7.02
+15002821,Fitness,Snacks,Hej Nutrition Crispy Protein Bar White Choco Peanut 45g,6.89,5.25
+15002916,Fitness,Snacks,KoRo Veganer Proteinriegel Schokolade Brownie 55g,11.94,10.30
+15002921,Fitness,Snacks,MaxiNutrition Filled Protein Bar Hazelnut Nougat 45g,9.81,8.17
+15002922,Fitness,Snacks,MaxiNutrition Filled Protein Bar Peanut Caramel 45g,7.01,5.37
+15003117,Fitness,Snacks,MaxiNutrition Filled Protein Bar Strawberry Yoghurt 45g,7.69,6.05
+11017762,Fitness,Snacks,MaxiNutrition High Protein Bar Chocolate Brownie 40g,9.65,8.01
+11010593,Fleisch & Fisch,Fisch & Meeresfrüchte,Crusta Nova Die Frische Bayerische Garnele 250g,5.63,3.99
+11010608,Fleisch & Fisch,Fisch & Meeresfrüchte,Rewe Bio Stremellachs Pfeffer 100g,7.34,5.70
+11010611,Fleisch & Fisch,Fleisch- & Fischalternativen,Beyond Meat Beyond Burger Vegan 226g (2x113g),9.45,7.81
+11010614,Fleisch & Fisch,Fleisch- & Fischalternativen,Beyond Meat Beyond Sausage 200g (2x100g),6.55,4.91
+11010620,Fleisch & Fisch,Fleisch- & Fischalternativen,Like Meat Rostbratwurst 180g,8.51,6.87
+11010621,Fleisch & Fisch,Fleischkonserven & Pausenfüller,Aoste Stickado Pikanto 70g,5.78,4.14
+11011119,Fleisch & Fisch,Fleischkonserven & Pausenfüller,Aoste Stickado Salami Sticks Classique 70g,5.83,4.19
+11011839,Fleisch & Fisch,Fleischkonserven & Pausenfüller,Röhrs Knabbanossi 90g,9.63,8.85
+11011889,Fleisch & Fisch,Geflügelfleisch,Bio Frz. Mais-Hähnchenfilet ca. 300g (2 Stück),7.63,6.85
+11011890,Fleisch & Fisch,Geflügelfleisch,Bio Hähnchen Innenbrustfilet mariniert Joghurt Knoblauch ca. 350g,5.09,4.31
+11011956,Fleisch & Fisch,Geflügelfleisch,Bio Hähnchen- Innenfilet mariniert ca. 350g,8.13,7.35
+11013495,Frisch & Fertig,Backwaren & frische Fertigteige,Creapan American Toaster Pancakes 300g (6 Stück),8.84,7.73
+11013844,Frisch & Fertig,Backwaren & frische Fertigteige,Meggle Laugenbaguette Kräuter-Butter 160g,8.21,7.10
+11013845,Frisch & Fertig,Backwaren & frische Fertigteige,Meggle Steinofen Dinkelbrot Feine Kräuterfüllung Vegan 250g,6.44,5.33
+11014132,Frisch & Fertig,Frische Pasta & Beilagen,Bürger Gemüse Maultaschen 360g,9.44,8.33
+11014222,Frisch & Fertig,Frische Pasta & Beilagen,Bürger Maultaschen Traditionell Schwäbisch 360g,5.89,4.78
+11014223,Frisch & Fertig,Frische Pasta & Beilagen,Bürger Maultaschen Traditionell Schwäbisch 360g x2,9.87,8.76
+11015215,Frisch & Fertig,Frische Säfte & Smoothies,Dean & David Cold Pressed Juice Berry Love 330ml,6.67,6.00
+11015217,Frisch & Fertig,Frische Säfte & Smoothies,Dean & David Ingwershot Kurkuma 80ml,9.68,9.01
+11018681,Frisch & Fertig,Frische Suppen,Elisabeth Gemüse-Kokossuppe mit Curry Vegan 450ml,7.98,7.23
+11018682,Frisch & Fertig,Frische Suppen,Elisabeth Tomaten-Kokossuppe Vegan 450ml,7.71,6.96
+11019055,Frisch & Fertig,Gekühlte Fertiggerichte & Snacks,"BROUSINS Gefüllter Hackbraten mit Brie, saisonales Kartoffel-Ofengemüse, Kräuterrahm-Sauce 450g",9.52,8.77
+11019056,Frisch & Fertig,Gekühlte Fertiggerichte & Snacks,"Brousins Homemade Couscous Boulette mit Rote-Beete-Hummus, Aubergine, Granatapfel 370g",9.51,8.76
+14007771,Frisch & Fertig,Salate & kalte Bowls,MaKE. Falafel Bowl Vegan 490g,7.19,6.26
+14007931,Frisch & Fertig,Salate & kalte Bowls,MaKE. Gyros Bowl Vegan 420g,9.43,8.50
+11010565,Frisch & Fertig,Sandwiches & Wraps,Bauer Funken 1/2 Wrap Döner 200g,8.81,7.88
+11010566,Frisch & Fertig,Sandwiches & Wraps,Bauer Funken 1/2 Wrap Falafel 161g,8.13,7.20
+11012619,Frisch & Fertig,Sushi,Rewe To Go Sushi Box Momi 235g,7.08,6.09
+11012620,Frisch & Fertig,Sushi,Rewe To Go Sushi Box Sakana 210g,8.31,7.32
+11012621,Frisch & Fertig,Sushi,Rewe To Go Sushi Box Tayo Bento 310g,7.27,6.28
+11012926,"Kaffee, Tee & Kakao",Bohnenkaffee,Agata Espresso Fernando Escobar Ganze Bohne 250g,9.05,8.06
+11013145,"Kaffee, Tee & Kakao",Bohnenkaffee,Bazzar Caffe Bio Organic Mexico Ganze Bohne 250g,5.35,4.36
+11013777,"Kaffee, Tee & Kakao",Bohnenkaffee,Bazzar Caffe Espresso Classic Bar Ganze Bohne 1kg,6.46,5.47
+11017132,"Kaffee, Tee & Kakao",Bohnenkaffee,Speicherstadt Kaffeerösterei Schümli Ganze Bohne 250g,8.52,7.63
+11017133,"Kaffee, Tee & Kakao",Filterkaffee,Agata Filterkaffee Kalledevarapura Gemahlen 250g,9.76,8.87
+11017219,"Kaffee, Tee & Kakao",Filterkaffee,Agata House Blend Gemahlen 250g,6.90,6.01
+11017220,"Kaffee, Tee & Kakao",Filterkaffee,Bergbrand Sonnenkind Gemahlen 250g,6.05,5.16
+11018608,"Kaffee, Tee & Kakao",Filterkaffee,Speicherstadt Kaffeerösterei Forte Espresso Gemahlen 250g,7.85,6.66
+13131260,"Kaffee, Tee & Kakao",Filterkaffee,Speicherstadt Kaffeerösterei Hamburger Hafen Bio Kaffeemischung Gemahlen 250g,9.20,8.01
+14003138,"Kaffee, Tee & Kakao",Instant Kaffee,BLAEK No.1 Instant Kaffee To-Go 21g (7x3g),7.66,6.47
+15000660,"Kaffee, Tee & Kakao",Instant Kaffee,BLAEK No.2 Instant Kaffee To-Go 21g (7x3g),5.05,3.86
+15000665,"Kaffee, Tee & Kakao",Instant Kaffee,BLAEK No.3 Instant Kaffee Home 60g,8.92,8.13
+15000666,"Kaffee, Tee & Kakao",Instant Kaffee,Jacobs Classic 2 in 1 140g (10 Sticks),5.19,4.40
+110750937,"Kaffee, Tee & Kakao",Tee,Bad Heilbrunner Husten- & Bronchialtee 8 Beutel 16g,9.21,8.42
+110750945,"Kaffee, Tee & Kakao",Tee,Bad Heilbrunner Magen- & Darmtee 8 Beutel 14g,6.43,5.64
+110800914,"Kaffee, Tee & Kakao",Tee,BOTEANICALS No. 3 Bio grüne Minze-Rosmarin-Zitronenschale 80g,8.29,7.50
+11015690,"Kaffee, Tee & Kakao",Tee,Teekanne Winterzeit 50g (20 Beutel),7.15,5.86
+11013221,"Kaffee, Tee & Kakao",Tee,"Yogi Tea Bio Abend 30,6g (17 Beutel)",6.34,5.05
+11012866,"Kaffee, Tee & Kakao",Tee,"Yogi Tea Bio Basische Kräuter 35,7g (17 Beutel)",7.88,6.59
+11015667,"Kaffee, Tee & Kakao",Tee,"Yogi Tea Bio Classic 37,4g (17 Beutel)",9.93,8.64
+109150272,"Nudeln, Reis & Internationales Kochen",Getreide & Hülsenfrüchte,Biogreno Bio Chiasamen 250g,8.53,7.24
+109150264,"Nudeln, Reis & Internationales Kochen",Getreide & Hülsenfrüchte,Müller's Mühle Teller-Linsen 500g,8.33,7.04
+11013225,"Nudeln, Reis & Internationales Kochen",Getreide & Hülsenfrüchte,Rewe Bio Chia-Samen 300g,8.25,6.96
+11014348,"Nudeln, Reis & Internationales Kochen",Nudeln,3 Glocken Genuss Pur Bandnudeln 500g,5.14,3.85
+11015694,"Nudeln, Reis & Internationales Kochen",Nudeln,Barilla Casarecce de pois chiches Kichererbsen 250g,6.78,5.49
+11013431,"Nudeln, Reis & Internationales Kochen",Nudeln,Bernbacher Original Nockerlgrieß 250g,9.23,8.44
+11014324,"Nudeln, Reis & Internationales Kochen",Nudeln,Campo Verde Demeter Bio Dinkel Spaghetti 500g,9.38,8.59
+11017470,"Nudeln, Reis & Internationales Kochen",Reis,Reishunger Bio Risotto Reis 400g,9.39,8.10
+11016454,"Nudeln, Reis & Internationales Kochen",Reis,Reishunger Bio Schwarzer Reis 400g,9.54,8.13
+11013313,"Nudeln, Reis & Internationales Kochen",Reis,Rewe Beste Wahl Express Basmati Reis 250g,5.59,4.18
+11019381,"Saucen, Öle & Gewürze",Öl,Appennino Food Schwarzes Trüffelöl 99ml,7.48,6.07
+11014332,"Saucen, Öle & Gewürze",Öl,Appennino Food Weißes Trüffelöl 99ml,7.47,6.06
+11016457,"Saucen, Öle & Gewürze",Öl,Bamboo Garden Bio Sesam-Öl 100ml,7.00,5.59
+11017471,"Saucen, Öle & Gewürze",Öl,Bertolli Bratolivenöl Spray 200ml,8.07,6.66
+11011783,"Saucen, Öle & Gewürze",Mayonnaise & Senf,Hellmann's Vegan Garlic Mayonnaise 270g,5.02,4.10
+11014122,"Saucen, Öle & Gewürze",Mayonnaise & Senf,Hellmann’s Vegan Mayonnaise 270g Glas,7.23,6.31
+11012944,"Saucen, Öle & Gewürze",Mayonnaise & Senf,Löwensenf Extra 100ml,9.94,9.02
+101000034,"Saucen, Öle & Gewürze",Ketchup & Grillsaucen,Knorr Paprika Sauce Ungarische Art 250ml,7.91,7.06
+11016445,"Saucen, Öle & Gewürze",Ketchup & Grillsaucen,Knorr Steak Sauce 250ml,8.23,7.34
+11016451,"Saucen, Öle & Gewürze",Ketchup & Grillsaucen,Kühne Made for Veggies Knoblauchsauce mediterran vegan 235ml,9.25,8.36
+11011780,Süße Snacks,Popcorn,Chio Popcorn süß 120g,8.46,7.57
+11014751,Süße Snacks,Popcorn,Chio Popcorn Sweet & Salty 120g,5.40,4.51
+11016447,Süße Snacks,Popcorn,Heimatgut Bio Popcorn Salzig 60g,9.62,8.73
+11015641,Süße Snacks,Popcorn,UFH Popcorn süß,7.39,6.02
+11018030,Süße Snacks,Schokolade,Chocolate and Love Mint 80g,8.45,7.08
+11012876,Süße Snacks,Schokolade,Chocolate and Love Sea Salt & Caramel 80g,6.10,4.73
+110300872,Süße Snacks,Schokolade,Ferrero Raffaello Tafel 90g,6.48,5.11
+11012881,Süße Snacks,Schokolade,Ritter Sport Nugat 100g,8.06,6.17
+11018455,Süße Snacks,Schokolade,Veganz Bio Schokolade Roasted Hazelnut vegan 90g,7.37,6.48
+11018403,Süße Snacks,Schokolade,Veganz Bio Schokolade White Roasted Almond vegan 80g,7.54,6.65
+11016549,Tiefkühlkost,Pizza,Dr. Oetker Bistro Flammkuchen Elsässer Art 265g,5.20,4.31
+11016548,Tiefkühlkost,Pizza,Dr. Oetker Bistro Flammkuchen Salami 240g,7.56,6.67
+11014367,Tiefkühlkost,Pizza,Dr. Oetker Die Ofenfrische Margherita 385g,6.31,5.42
+11014401,Tiefkühlkost,Pizza,Dr. Oetker Die Ofenfrische Pepperoni-Salami 415g,9.21,8.32
+11011793,Tiefkühlkost,Pizza,Dr. Oetker Ristorante Pizza Mozzarella 335g,8.90,8.01
+109700246,Tiefkühlkost,Pizza,Gustavo Gusto Extra Luftig Drei Käse 315g,6.57,5.68
+11011794,Tiefkühlkost,Pizza,Gustavo Gusto Extra Luftig Funghi 340g,9.16,8.27
+11014620,Tiefkühlkost,Pizza,Gustavo Gusto Extra Luftig Margherita 310g,9.05,8.16
+11018221,Tiefkühlkost,Pizza,Rewe Beste Wahl Pizza Stuffed Crust Salami 472g,5.89,5.00
+11016611,Tiefkühlkost,Pizza,Rewe Beste Wahl Vegan Pizza Diavola 380g,5.70,4.81
+11013302,Tiefkühlkost,Snacks,Rewe Beste Wahl 10 Mini Frühlingsrollen 280g,7.89,7.00
+11011381,Tiefkühlkost,Snacks,Rewe Beste Wahl Chicken Bites Kentucky Style 260g,6.56,5.67
+11013676,Tiefkühlkost,Snacks,Rewe Beste Wahl Frühlingsrolle mit Zartem Hühnerfleisch 150g,9.61,8.72
+11012967,Tiefkühlkost,Snacks,Rewe Beste Wahl Samosas mit Gemüse 360g,9.97,9.08
+11016488,Tiefkühlkost,Snacks,Rewe Feine Welt Blätterteig Minis mit Lachs und Spinat 300g,9.52,8.63
+11013993,Tiefkühlkost,Snacks,Rewe Feine Welt Blätterteig Minis mit Schinken und Käse 300g,6.47,5.58
+11018671,Tiefkühlkost,Brötchen & Laugengebäck,Coppenrath & Wiese Unsere Goldstücke 6 Land-Brötchen 400g,5.65,4.76
+111650989,Tiefkühlkost,Brötchen & Laugengebäck,Coppenrath & Wiese Unsere Goldstücke 6 Mehrkorn-Brötchen 300g,9.00,8.11
+11016489,Tiefkühlkost,Brötchen & Laugengebäck,Coppenrath & Wiese Unsere Goldstücke Baguette-Brötchen 540g (9 Stück),8.88,7.99
+11016110,Tiefkühlkost,Brötchen & Laugengebäck,Coppenrath & Wiese Unsere Goldstücke Dinkel-Brötchen 420g (6 Stück),8.42,7.50
+11015099,Salzige Snacks,Chips & Flips,4Bro Broji Balls Bubble Gum 75g,2.85,1.93
+110300910,Salzige Snacks,Chips & Flips,4Bro Broji Balls Sucuk 75g,2.87,1.95
+11014386,Salzige Snacks,Chips & Flips,BenFit High Protein Flips Paprika 25g,3.15,2.23
+11014096,Salzige Snacks,Chips & Flips,BenFit High Protein Flips Zwiebel 25g,3.89,2.97
+11014351,Salzige Snacks,Chips & Flips,Chio Chips Red Paprika 175g,3.41,2.49
+11016619,Salzige Snacks,Chips & Flips,Chio Chips Salt+Vinegar 175g,3.84,2.92
+11017794,Salzige Snacks,Chips & Flips,Chio Tortillas Nacho Cheese 110g,2.14,1.22
+11016618,Salzige Snacks,Chips & Flips,Crunchips African Style 150g,3.64,2.72
+11017795,Salzige Snacks,Chips & Flips,Crunchips Falafel 130g,2.37,1.45
+11017861,Salzige Snacks,Chips & Flips,Heimatgut Bio Gemüse Chips 100g,3.13,2.25
+105700062,Salzige Snacks,Chips & Flips,Lorenz Naturals Balsamico 95g,3.72,2.61
+11016543,Salzige Snacks,Chips & Flips,Rewe Feine Welt Kartoffelchips mit Trüffelgeschmack 100g,3.86,1.98
+11018469,Salzige Snacks,Chips & Flips,ROB's Chips Ketchup 120g,2.24,0.36
+11013988,Salzige Snacks,Chips & Flips,Sal de Ibiza - Chips mit Salz und Essig 125g,3.55,1.67
+11013211,Salzige Snacks,Chips & Flips,Sal de Ibiza - Chips mit weissem Trüffel 125g,3.44,1.56
+11017796,Salzige Snacks,Chips & Flips,Sal de Ibiza Chips mit Trüffeln 125g,3.64,1.76
+11016666,Salzige Snacks,Chips & Flips,Takis Fuego 100g,3.19,1.31
+11013305,Salzige Snacks,Tortillas & Dips,Chio Dip! Cheese Dip 200ml,3.45,1.57
+11012955,Salzige Snacks,Tortillas & Dips,Chio Dip! Hot Salsa 200ml,2.55,0.67
+11016622,Salzige Snacks,Tortillas & Dips,Chio Dip! Milde Salsa 200ml,3.76,1.88
